@@ -1,0 +1,41 @@
+* {
+	padding: 0;
+	margin: 0;
+	border:0;
+	outline: none;
+}
+
+
+img {
+	width: 100%;
+}
+ul {
+	margin-bottom: 0 !important;
+}
+
+li {
+	list-style-type: none;
+}
+a {
+	text-decoration: none !important;
+}
+a:hover {
+	text-decoration: none !important;
+}
+h1 h2 h3 h4 h5 h6 {
+	font-weight: normal;
+	margin-bottom: 0 !important;
+}
+
+
+
+.fix:after {
+	content: "";
+	display: block;
+	clear: both;
+	font-size: 0;
+	visibility: hidden;
+}
+.clear {
+	clear: both;
+}
