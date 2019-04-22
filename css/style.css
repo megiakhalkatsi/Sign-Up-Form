@@ -171,14 +171,14 @@ header .nav1 ul li:after {
 /*main section starts here*/
 
 main {
-	background-image: url("../images/bck.jpg");
-	 background-repeat: no-repeat;
+    background-image: url("../images/bck.jpg");
+    background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center; 
     background-size: cover;
     margin-top: 110px;
     height: auto;
-	
+    min-height: 100vh;	
 }
 
 
